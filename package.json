@@ -6,5 +6,5 @@
     "csx-list": "bin/csx-list",
     "csx-init": "bin/csx-init",
     "csx-create": "bin/csx-create"
-  },
+  }
 }
